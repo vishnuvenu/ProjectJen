@@ -17,6 +17,7 @@ public class myMavenSelenium1 {
 		System.out.println("ytetsuau");
 		HomePage homepage = new HomePage();
 		homepage.login("admin","password");
+		System.out.println("teted");
 		//logger.debug("test");
 		//logger.error("error");
 			}
